@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=000000&width=435&lines=Welcome+to+my+GitHub+Profile!;Cyber+Security+%7C+Java+Developer;Let's+Collaborate+on+Projects!;Feel+free+to+reach+out!;Email:+tejasbarguje9@gmail.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=000000&width=435&lines=Welcome+to+my+GitHub+Profile!;full+stack+developer+%7C+Java+Developer;Let's+Collaborate+on+Projects!;Feel+free+to+reach+out!;Email:+sarthknimble@gmail.com)
 
 
 
@@ -18,9 +18,8 @@
 ## 🌐 Socials:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tejas_Barguje_Patil) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-cybersecurityanalyst-javadeveloper/)
-[![Freelancer](https://img.shields.io/badge/Freelancer-007fed.svg?logo=freelancer&logoColor=white)](https://www.freelancer.com/u/TejasBagujePatil?sb=t)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sarthak_nimble1642/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sarthak-nimble1642)
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/tejas_barguje)
 
 ---
@@ -54,7 +53,7 @@
 ---
 
 ## 🏆 *GitHub Trophies:*
-![](https://github-profile-trophy.vercel.app/?username=tejasbargujepatil&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sarthak-13N&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
