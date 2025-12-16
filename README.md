@@ -1,89 +1,128 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=000000&width=435&lines=Welcome+to+my+GitHub+Profile!;full+stack+developer+%7C+Java+Developer;Let's+Collaborate+on+Projects!;Feel+free+to+reach+out!;Email:+sarthknimble@gmail.com)
+# 💫 Welcome to My GitHub Profile — Sarthak Nimble
 
-
-
-# 💫 *About Me:*
-- I’m passionate about *Cyber Security* and always looking for exciting projects to collaborate on.
-- Actively seeking opportunities to *learn and grow together* with like-minded individuals.
-- Currently enhancing my knowledge in *Cyber Security* and *Data Structures* using *Java*.
-- Feel free to ask me about *projects, collaborations, or entrepreneurship*—let's create something impactful together!
-
-*Fun Fact*: I'm always ready for a challenge, whether it's tech-related or otherwise!
-
-![Code](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=000000&width=780&lines=Full-Stack+Developer+%7C+Java+%7C+Cyber+Security;Entrepreneur+%7C+Founder+%7C+Tech+Explorer;Building+Scalable+and+Impactful+Products)
 
 ---
 
+## 👋 About Me
 
-## 🌐 Socials:
+Hi, I’m **Sarthak Nimble** — a **Full-Stack Developer** and **Entrepreneur** passionate about building scalable, secure, and meaningful digital products.
 
+- 🔐 Strong interest in **Cyber Security** and secure system design  
+- 💻 Full-stack developer with hands-on experience in **Java, Spring Boot, Angular, Node.js**
+- 🚀 Founder & Team Lead of **E-Cell YMC**
+- 🌱 Currently learning **Cyber Security**, **Data Structures (Java)**, and exploring **AI/ML & Data Science**
+- 🌾 Working on agri-tech, dairy-tech, SaaS, and management platforms
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sarthak_nimble1642/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sarthak-nimble1642)
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/tejas_barguje)
-
----
-
-# 💻 *Tech Stack:*
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Fun fact:** I love challenges — whether it’s debugging production code or building startups from scratch.
 
 ---
 
+## 🌐 Connect With Me
 
-
-# 📊 *GitHub Stats:*
-![](https://github-readme-stats.vercel.app/api?username=tejasbargujepatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejasbargujepatil&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasbargujepatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 *GitHub Trophies:*
-![](https://github-profile-trophy.vercel.app/?username=sarthak-13N&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+- 💼 LinkedIn: https://www.linkedin.com/in/sarthak-nimble1642  
+- 📸 Instagram: https://www.instagram.com/sarthak_nimble1642  
+- 💻 GitHub: https://github.com/sarthak-13N  
+- ✉️ Email: sarthknimble@outlook.com  
 
 ---
 
-### ✍ *Inspiring Developer Quote:*
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💻 Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
+## 🚀 Projects & Products
 
+- **Nimble / Nimblebandhu**  
+  Farm & dairy e-commerce platform with fast delivery and eco-friendly packaging
 
+- **EcoDairy Direct**  
+  Dairy & snacks delivery system (15–20 min delivery model)
 
-### 🔝 *Top Contributed Repositories*
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasbargujepatil&layout=compact&theme=dark)
+- **Absensync**  
+  Employee leave management system (Spring Boot REST API)
 
+- **Attendosync**  
+  Attendance management solution (software + hardware concept)
+
+- **BookMyEvent**  
+  Event booking platform built with Spring Boot
+
+- **E-Tech**  
+  E-learning platform concept
+
+- **Quantum Corp**  
+  Company management system
+
+- **Smart Accident Response System (SARS)**  
+  Emergency response & safety system (research-based project)
+
+- **Farmovate**  
+  Agri-tech innovation project (E-Cell R&D)
 
 ---
 
+## 📊 GitHub Stats
 
-### Skills Progress
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak-13N&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-13N&layout=compact&theme=dark)
 
-![HTML 99%](https://img.shields.io/badge/HTML-99%25-brightgreen?style=for-the-badge)
-![CSS 90%](https://img.shields.io/badge/CSS-90%25-brightgreen?style=for-the-badge)
-![Python 50%](https://img.shields.io/badge/Python-50%25-yellow?style=for-the-badge)
-![AWS 40%](https://img.shields.io/badge/AWS-40%25-red?style=for-the-badge)
-![Azure 60%](https://img.shields.io/badge/Azure-60%25-orange?style=for-the-badge)
-![Angular 80%](https://img.shields.io/badge/Angular-80%25-yellow?style=for-the-badge)
-![Node.js 80%](https://img.shields.io/badge/Node.js-80%25-yellow?style=for-the-badge)
-![WordPress 70%](https://img.shields.io/badge/WordPress-70%25-yellow?style=for-the-badge)
-![MySQL 92%](https://img.shields.io/badge/MySQL-92%25-brightgreen?style=for-the-badge)
-![PostgreSQL 95%](https://img.shields.io/badge/PostgreSQL-95%25-brightgreen?style=for-the-badge)
-![GitHub 93%](https://img.shields.io/badge/GitHub-93%25-brightgreen?style=for-the-badge)
+---
 
-[![](https://visitcount.itsvg.in/api?id=tejasbargujepatil&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sarthak-13N&theme=nightowl)
+
+---
+
+## 📈 Skills Progress
+
+- HTML / CSS — **99%**
+- Java — **85%**
+- Spring Boot — **80%**
+- Angular / React — **80%**
+- Node.js — **80%**
+- MySQL / PostgreSQL — **90%**
+- Python — **50%**
+- AWS / Azure — **60%**
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+- Full-stack & backend development opportunities  
+- Cyber Security & SaaS projects  
+- Startup collaborations & hackathons  
+- Learning-focused AI/ML & Data Science projects  
+
+If you have an idea — let’s build it 🚀
+
+---
+
+## ✍️ Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=sarthak-13N&icon=0&color=0)
